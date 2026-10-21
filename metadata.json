@@ -1,0 +1,8 @@
+{
+  "name": "Smart Ledger",
+  "description": "A modern, local-first bookkeeping application that parses CSV bank statements and provides visual financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
